@@ -10,7 +10,7 @@ Summary(pl.UTF-8):	Wiązanie CFFI Pythona 2 do biblioteki Brotli
 Name:		python-brotlicffi
 # keep 1.0.x here for python2 support
 Version:	1.0.9.2
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/brotlicffi/
